@@ -807,12 +807,11 @@ To https://github.com/BojungChoi/auto-commit-bot.git
    cb15fd6..068aa55  main -> main
 [Wed May 21 13:38:21     2025] 커밋 스크립트 실행됨
 To https://github.com/BojungChoi/auto-commit-bot.git
-   068aa55..9d03251  main -> main
-025] 커밋 스크립트 실행됨
-[Wed May 21 13:38:22     2025] 커밋 스크립트 실행됨
-[Wed May 21 13:38:23     2025] 커밋 스크립트 실행됨
-[Wed May 21 13:38:23     2025] 커밋 스크립트 실행됨
-[Wed May 21 13:38:23     2025] 커밋 스크립트 실행됨
-[Wed May 21 13:38:23     2025] 커밋 스크립트 실행됨
-[Wed May 21 13:38:24     2025] 커밋 스크립트 실행됨
-[Wed May 21 13:38:24     2025] 커밋 스크립트 실행됨
+   068aaTo https://github.com/BojungChoi/auto-commit-bot.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at a01cf769753e46b3a7d00250b79180791aa04991 but expected To https://github.com/BojungChoi/auto-commit-bot.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/BojungChoi/auto-commit-bot.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
