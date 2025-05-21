@@ -809,6 +809,7 @@ To https://github.com/BojungChoi/auto-commit-bot.git
 To https://github.com/BojungChoi/auto-commit-bot.git
    068aaTo https://github.com/BojungChoi/auto-commit-bot.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at a01cf769753e46b3a7d00250b79180791aa04991 but expected To https://github.com/BojungChoi/auto-commit-bot.git
+ ! [rejeTo https://github.com/BojungChoi/auto-commit-bot.git
  ! [rejected]        main -> main (non-fast-forward)
 error: failed to push some refs to 'https://github.com/BojungChoi/auto-commit-bot.git'
 hint: Updates were rejected because the tip of your current branch is behind
