@@ -812,14 +812,11 @@ To https://github.com/BojungChoi/auto-commit-bot.git
  ! [rejected]        main -> main (non-fast-forward)
 error: failed to push some refs to 'https://github.com/BojungChoi/auto-commit-bot.git'
 hint: Updates were rejected because the tip of yourTo https://github.com/BojungChoi/auto-commit-bot.git
-   a01cf76..0b4bdc8  main -> main
-mote changes,
-hint: use 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-es,
-hint: use 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+   a01cfTo https://github.com/BojungChoi/auto-commit-bot.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at cbbedbf0183429f1a1204579ea6383e471ca2010 but expected a01cf769753e46b3a7d00250b79180791aa04991)
+error: failed to push some refs to 'https://github.com/BojungChoi/auto-commit-bot.git'
+��밋 스크립트 실행됨
 [Wed May 21 13:38:25     2025] 커밋 스크립트 실행됨
 [Wed May 21 13:38:25     2025] 커밋 스크립트 실행됨
-[Wed May 21 13:38:25     2025] 커밋 스크립트 실행됨
+[Wed May 21 13:38:26     2025] 커밋 스크립트 실행됨
 [Wed May 21 13:38:26     2025] 커밋 스크립트 실행됨
